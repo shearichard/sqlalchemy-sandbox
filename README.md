@@ -1,6 +1,8 @@
 # sqlalchemy-sandbox
 
-This project is used to experiment with [sqlalchemy](https://sqlalchemy.org) 
+This project is used to experiment with the [sqlalchemy](https://sqlalchemy.org) ORM. 
+
+At least initially it's based around the [SQLAlchemy 1.4 tutorial](https://docs.sqlalchemy.org/en/14/tutorial/engine.html).
 
 
 ## virtual environment
