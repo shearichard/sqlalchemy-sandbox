@@ -1,5 +1,6 @@
-# sqlalchemy-sandbox
 ![SQLAlchemy logo](markdown_assets/sql_logo_truncated.png)
+
+# sqlalchemy-sandbox
 
 This project is used to experiment with the [sqlalchemy](https://sqlalchemy.org) ORM. 
 
